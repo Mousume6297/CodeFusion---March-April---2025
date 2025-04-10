@@ -1,55 +1,30 @@
-# CodeFusion---March-April---2025 Sumbissons
-# 💸 CryptoPlace
+# Portfolio Website
 
-CryptoPlace is a sleek and modern cryptocurrency marketplace that allows users to explore real-time coin prices using the Genko API and visualize trends using dynamic charts powered by Google Charts. Designed with an intuitive UI using React.js and backed by MongoDB Atlas on the server side, it’s a secure, scalable, and responsive crypto hub.
+This is a portfolio website built with Next.js and Tailwind CSS. It showcases your skills, projects, and achievements in an elegant and responsive design.
 
----
+## Installation
 
-## 🔥 Features
+1. Clone the repository: `git clone https://github.com/judygab/nextjs-portfolio.git`
+2. Navigate to the project directory: `cd portfolio-website`
+3. Install the dependencies: `npm install`
 
-- 🔐 *User Authentication* (Login/Signup with JWT)
-- 📈 *Real-Time Coin Prices* from *Genko API*
-- 📊 *Interactive Line Charts* using Google Charts
-- 🌐 *Responsive UI* with modern design and glassmorphic elements
-- 🧠 *Blog Section* for crypto insights
-- 💡 *Features Page* explaining platform advantages
-- ☁ *MongoDB Atlas* for secure data handling
-- 🚀 Fully functional backend with Express and secure routing
+## Usage
 
----
+1. Start the development server: `npm run dev`
+2. Open your browser and visit `http://localhost:3000` to view the website.
 
-## 🛠 Tech Stack
+## Dependencies
 
-*Frontend:*
-- React.js
-- Tailwind CSS
-- Google Charts
+The following dependencies are required for this project:
 
-*Backend:*
-- Node.js
-- Express.js
-- MongoDB Atlas
-- Mongoose
-- JWT (jsonwebtoken)
-- bcryptjs
-- nodemailer
-- cookie-parser
-- dotenv
-- cors
+- Next.js: A React framework for server-side rendering and static site generation.
+- Tailwind CSS: A highly customizable CSS framework.
+- React: A JavaScript library for building user interfaces.
+- React Icons: A collection of popular icons for React projects.
+- TypeScript: A typed superset of JavaScript that compiles to plain JavaScript.
+- Resend: Resend is the email API for developers.
 
----
+## License
 
-## ⚙ Setup & Usage Instructions
-For FrontEnd:
-cd client
-npm install
-npm start
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute the code as per the terms of the license.
 
-For BackEnd:
-cd server
-npm install
-npm run dev
-
-Team Members:-[Synapse surge]
-Ekta Pandey
-Sneha Mishra
